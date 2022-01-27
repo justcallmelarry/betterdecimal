@@ -1,4 +1,4 @@
-# `Number`
+# `Better Decimal`
 The power of `Decimal` with some quality of life improvements:
 * Ability to enter floats: `Number(1.23)`
 * Ability to do calculations with floats: `Number(1.5) * 1.5`
